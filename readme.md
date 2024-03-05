@@ -1,4 +1,4 @@
-!['logo'](public/CLUB.png)
+!['logo'](public/CLUB.jpeg)
 # SolClub
 
 Open source codes for SolClub Ecosystem. LET's BUDL!

@@ -24,7 +24,7 @@ Existing platforms operate on a one-user, one-vote principle. This creates an en
 - Website: https://solclub.vip
 - Docs: https://docs.solclub.vip
 - X: https://x.com/SolClubApp
-- Telegram: https://t.me/SolClubApp
+- Telegram: https://t.me/SolClubPortal
 
 ## About $CLUB
 !['logo'](public/CLUB.jpeg)
